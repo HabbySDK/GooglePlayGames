@@ -1,11 +1,16 @@
 {
-    "name": "com.google.play.games",
+    "name": "com.habbysdk.gms",
     "displayName": "Google Play Games",
-    "description": "The Google Play Games plugin for Unity allows you to access the Google Play Games API through Unity's social interface.",
-    "version": "0.11.01",
     "unity": "2019.4",
-    "author": {
-        "name": "Google LLC"
+    "_upm": {
+      "changelog": "### Google Play Games\n."
     },
-    "dependencies": {}
-}
+    "version": "0.11.01",
+    "description": "The Google Play Games plugin for Unity allows you to access the Google Play Games API through Unity's social interface.",
+    "dependencies": {
+    },
+    "keywords": [
+      "habby gmslib",
+      "HabbySDK"
+    ]
+  }
